@@ -32,7 +32,7 @@ const checkEndGame = () => {
         clearInterval(this.loop);
         setTimeout(() => {
             alert(`Congratulations, ${spanPlayer.innerHTML}!\nYou won in ${timer.innerHTML} seconds!`);
-        }, 1500)
+        }, 1001)
     }
 }
 
