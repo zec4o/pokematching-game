@@ -23,6 +23,17 @@ I'm using [Pokémon](https://www.pokemon.com/) cards and images as source to bui
 -   CSS Transitions
 -   addEventListener()
 
+## Next Steps:
+🔋 'Login' page</br>
+🔋 local data storage</br>
+🔋 handle basic exceptions</br>
+🔋 timer
+🪫 implement ranking
+🪫 new stages (pokémon new gens)
+🪫 nice win screen
+🪫 reset button
+🪫 start button
+
 ## Requirements 📚
 
 Follow-me on [GitHub](https://github.com/zec4o/)  and [Linkedin](http://www.linkedin.com.br/in/jose-malty)🤣
