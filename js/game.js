@@ -3,16 +3,16 @@ const spanPlayer = document.querySelector('.player');
 const timer = document.querySelector('.timer');
 
 const characters = [
-    'bulbasaur',
-    'caterpie',
-    'charmander',
-    'ekans',
-    'pidgey',
-    'pikachu',
-    'rattata',
-    'spearow',
-    'squirtle',
-    'weedle',
+    'firsthokage',
+    'hayate',
+    'itachi',
+    'izumo',
+    'kakashi',
+    'kotetsu',
+    'naruto',
+    'rocklee',
+    'sakura',
+    'yamato',
 
 ]
 
