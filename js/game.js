@@ -30,7 +30,9 @@ const checkEndGame = () => {
 
     if (disabledCards.length === 20) {
         clearInterval(this.loop);
-        alert(`Congratulations, ${spanPlayer.innerHTML}!\nYou won in ${timer.innerHTML} seconds!`);
+        setTimeout(() => {
+            alert(`Congratulations, ${spanPlayer.innerHTML}!\nYou won in ${timer.innerHTML} seconds!`);
+        }, 1500)
     }
 }
 
