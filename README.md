@@ -27,11 +27,11 @@ I'm using [Pokémon](https://www.pokemon.com/) cards and images as source to bui
 🔋 'Login' page</br>
 🔋 local data storage</br>
 🔋 handle basic exceptions</br>
-🔋 timer
-🪫 implement ranking
-🪫 new stages (pokémon new gens)
-🪫 nice win screen
-🪫 reset button
+🔋 timer</br>
+🪫 implement ranking</br>
+🪫 new stages (pokémon new gens)</br>
+🪫 nice win screen</br>
+🪫 reset button</br>
 🪫 start button
 
 ## Requirements 📚
